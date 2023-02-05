@@ -1,0 +1,5 @@
+train: /Users/awais/Desktop/WeedCrop.v1i.yolov5pytorch/train/images
+val: /Users/awais/Desktop/WeedCrop.v1i.yolov5pytorch/valid/images
+
+nc: 2
+names: ['crop', 'weed']
